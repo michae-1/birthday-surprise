@@ -440,4 +440,4 @@ function setPhoneNumber(phoneNumber) {
 }
 
 // Set the phone number
-setPhoneNumber('7260889723');
+setPhoneNumber('+254708576891');
