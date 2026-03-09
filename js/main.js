@@ -318,11 +318,11 @@ function createHeartBurst(element) {
  * Counts down to a specified date
  */
 function initCountdown() {
-    // Set the date we're counting down to (10 days from now)
-    const now = new Date();
+    // Set the date we're counting down to (5 days from now)
+    const now = new Date("2026-03-10T13:00:00");
     const countdownDate = new Date();
-    countdownDate.setDate(now.getDate() + 10); // 10 days from now
-    countdownDate.setHours(20); // 8:00 PM
+    countdownDate.setDate(now.getDate() + 5); // 5 days from now
+    countdownDate.setHours(13); // 13:00 PM
     countdownDate.setMinutes(0);
     countdownDate.setSeconds(0);
     
