@@ -1,10 +1,10 @@
-# Birthday Apology Website
+# Birthday Website
 
-A beautiful, elegant, and heartfelt birthday apology website with animations and interactive elements.
+A beautiful, elegant, and heartfelt birthday website with animations and interactive elements.
 
 ## Overview
 
-This website is designed to express a sincere apology for forgetting a birthday, combined with heartfelt birthday wishes. It features:
+This website is designed to express sincere heartfelt birthday wishes. It features:
 
 - Elegant, feminine design with soft colors
 - Animated elements like floating hearts and sparkles
